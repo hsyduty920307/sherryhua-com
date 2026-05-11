@@ -101,13 +101,15 @@ params:
   homeInfoParams:
     Title: "潇秋木的小宇宙"
     Content: |
-      阅读|旅行|记录の时代观察家
-
+      阅读|旅行|记录の时代观察家<br>
       Sherry's Life & Notes
 
-      这里是潇秋木 / Sherry 的长期写作档案，记录阅读、旅行、AI 与人类社会、投资笔记，以及正在发生的生活片段。
+      这里是 潇秋木 / Sherry 的个人档案馆，一个装着机票、书页、红绿柱子、胡思乱想、或许还有视频和生活备忘录的小型星球。
+      
+      当一枚大时代的小小观察者(๑•̀ㅂ•́)و✧
   assets:
     disableHLJS: true
+
   label:
     text: "潇秋木的小宇宙"
   editPost:
