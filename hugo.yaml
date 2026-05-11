@@ -1,0 +1,114 @@
+baseURL: "https://sherryhua.com/"
+title: "潇秋木的小宇宙"
+theme: ["PaperMod"]
+languageCode: "zh-cn"
+defaultContentLanguage: "zh"
+hasCJKLanguage: true
+enableRobotsTXT: true
+enableEmoji: true
+timeZone: "Asia/Bangkok"
+copyright: "© Sherry Hua"
+
+pagination:
+  pagerSize: 10
+
+taxonomies:
+  tag: tags
+  category: categories
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: 博客
+      url: /blog/
+      weight: 20
+    - identifier: books
+      name: 读书
+      url: /books/
+      weight: 30
+    - identifier: travel
+      name: 旅行
+      url: /travel/
+      weight: 40
+    - identifier: videos
+      name: 视频
+      url: /videos/
+      weight: 50
+    - identifier: now
+      name: 近况
+      url: /now/
+      weight: 60
+    - identifier: archive
+      name: 归档
+      url: /archive/
+      weight: 70
+
+params:
+  env: production
+  description: "潇秋木 / Sherry 的个人写作档案：阅读、旅行、记录与时代观察。"
+  keywords:
+    - Sherry Hua
+    - 潇秋木
+    - 阅读
+    - 旅行
+    - AI
+    - 时代观察
+  author: "Sherry Hua"
+  DateFormat: "2006-01-02"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowFullTextinRSS: true
+  UseHugoToc: true
+  mainSections:
+    - blog
+    - books
+    - travel
+    - videos
+  homeInfoParams:
+    Title: "潇秋木的小宇宙"
+    Content: |
+      阅读|旅行|记录の时代观察家
+
+      Sherry's Life & Notes
+
+      这里是潇秋木 / Sherry 的长期写作档案，记录阅读、旅行、AI 与人类社会、投资笔记，以及正在发生的生活片段。
+  assets:
+    disableHLJS: true
+  label:
+    text: "潇秋木的小宇宙"
+  editPost:
+    disabled: true

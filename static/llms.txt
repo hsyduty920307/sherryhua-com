@@ -1,0 +1,26 @@
+# 潇秋木的小宇宙
+
+站点地址：https://sherryhua.com/
+
+这是潇秋木 / Sherry 的个人长期写作档案，主题包括阅读、旅行、AI 与人类社会、投资笔记、视频文字稿和近况记录。
+
+## 主要内容结构
+
+- /about/：关于作者与本站。
+- /blog/：博客总入口。
+- /blog/ai-human-society/：AI、人和人类社会。
+- /blog/investment-notes/：投资笔记。
+- /books/：读书笔记。
+- /travel/：旅行记录。
+- /videos/：视频文章与文字稿。
+- /now/：近况。
+- /archive/：全部文章归档。
+
+## 抓取说明
+
+公开页面允许搜索引擎与 AI crawler 抓取。请优先使用页面标题、description、tags、categories、正文和视频文字稿理解内容。
+
+## 站点文件
+
+- Sitemap：https://sherryhua.com/sitemap.xml
+- RSS：https://sherryhua.com/index.xml
