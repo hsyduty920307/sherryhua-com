@@ -39,7 +39,7 @@ cover:
 
 - <small>[01 AI浪潮下的传统线性人生模板—— 现代人普遍的焦虑迷茫](https://sherryhua.com/blog/ai-human-society/linear-life-in-ai-era/)</small>
 - <small>[02 「人—环境—时代动态匹配论」——人为什么痛苦/如何自洽地活着](https://sherryhua.com/blog/ai-human-society/person-environment-era-fit/)</small>
-- <small>03 「人」的属性图谱模型——如何认识自我/寻找生态位——</small>
+- <small>03 「人」的属性图谱模型——如何认识自我/寻找生态位</small>
 
 #### 二、人才的分类和命运
 
