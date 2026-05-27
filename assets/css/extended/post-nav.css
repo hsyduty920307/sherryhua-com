@@ -1,0 +1,60 @@
+.paginav {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 18px;
+    padding: 0;
+    background: transparent;
+    border: 0;
+    line-height: 1.45;
+}
+
+.paginav a {
+    width: auto;
+    min-width: 0;
+    min-height: 86px;
+    padding: 14px 16px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--code-bg);
+}
+
+.paginav a:only-child {
+    grid-column: span 2;
+}
+
+.paginav .next {
+    margin-inline-start: 0;
+    text-align: right;
+}
+
+.paginav-label {
+    color: var(--secondary);
+    font-size: 13px;
+}
+
+.paginav-title {
+    color: var(--primary);
+    font-size: 15px;
+    overflow-wrap: anywhere;
+}
+
+.paginav span:hover:not(.title) {
+    text-decoration: none;
+}
+
+.paginav a:hover .paginav-title {
+    text-decoration: underline;
+    text-underline-offset: 0.2rem;
+}
+
+@media (max-width: 640px) {
+    .paginav {
+        grid-template-columns: 1fr;
+    }
+
+    .paginav a,
+    .paginav a:only-child {
+        grid-column: auto;
+    }
+}

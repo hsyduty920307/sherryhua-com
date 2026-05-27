@@ -5,7 +5,6 @@ description: "致我的社会系统工程实验室和观察者游乐园"
 tags: ["投资", "笔记"]
 categories: ["投资笔记"]
 draft: false
-ShowPostNavLinks: false
 cover:
   image: ""
   alt: ""
