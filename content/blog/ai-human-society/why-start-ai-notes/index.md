@@ -45,7 +45,7 @@ cover:
 
 - <small>[04 人才分类VS文明演化——天才二分法判定框架：范式内天才与范式颠覆者](https://sherryhua.com/blog/ai-human-society/genius-dichotomy-civilization/)</small>
 - <small>05 从底层认知结构到共性命运——详解“范式颠覆者”</small>
-- <small>06 “天才和疯子只有一线之隔”？——千年认知规训下的宿命论传说</small>
+- <small>[06 “天才和疯子只有一线之隔”？——千年认知规训下的宿命论传说](https://sherryhua.com/blog/ai-human-society/genius-madness-thin-line-myth/)</small>
 
 #### 三、人类文明的演化和转型
 
