@@ -51,7 +51,7 @@ cover:
 
 #### 三、人类文明的演化和转型
 
-- <small>07 AI全速进化时代，人类存在的意义&凭什么活着？——从工具属性到价值属性的文明大跃迁</small>
+- <small>[07 AI全速进化时代，人类存在的意义&凭什么活着？——从工具属性到价值属性的文明大跃迁](https://sherryhua.com/blog/ai-human-society/tool-value-civilization-leap/)</small>
 - <small>08 文明换轨与人才标准重排：从生存、服从、执行到价值判断</small>
 
 
